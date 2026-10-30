@@ -8,9 +8,11 @@ This repository hosts the **PC app downloads**. Get the latest version from
 
 ## Install
 
-**Windows 10 / 11:** download `OpenSteer-Setup-<version>.exe` and run it. It installs the
+**Windows 10 / 11:** download `OpenSteer-Setup-<version>.exe` and run it. The installer isn't
+code-signed yet, so Windows may say it protected your PC: click **More info**, then **Run anyway**.
+It installs the
 ViGEmBus driver if needed (that is what creates the virtual controller), then starts in the
-system tray and shows a 6-digit code.
+system tray and shows a pairing code with a QR code.
 
 **Linux (x86-64):** download `OpenSteer-<version>-linux-x86_64.tar.gz`, then:
 
@@ -24,8 +26,14 @@ Log out and back in, then start OpenSteer from your app menu.
 
 ## Pair your phone
 
-Open **https://opensteer.web.app** on your phone (same Wi-Fi as the PC), sign in with Google,
-tap **Pair with code**, and enter the code the PC app shows.
+Scan the QR code in the PC app's window with your phone's camera, or open
+**https://opensteer.web.app** on your phone, sign in with Google, tap **Pair with code**, and type
+the code the PC app shows.
+
+## License
+
+OpenSteer is free to use. It is not open source: you may not redistribute, sell or modify the
+app. See [LICENSE](LICENSE).
 
 ## Third-party software
 

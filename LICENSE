@@ -1,0 +1,15 @@
+Copyright (c) 2026 Halil Taha Basegmez. All rights reserved.
+
+OpenSteer's source code is proprietary and not licensed for copying, modification or
+redistribution.
+
+The OpenSteer PC app (the released binaries) and the web app at https://opensteer.web.app may be
+used free of charge. You may not redistribute, sell, modify or reverse-engineer the binaries,
+except where the licenses of the third-party components they include allow it.
+
+Third-party components bundled with the PC app keep their own licenses, listed with full text in
+THIRD-PARTY-NOTICES.txt next to the installed app.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE
+SOFTWARE.
