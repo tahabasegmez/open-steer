@@ -32,8 +32,7 @@ the code the PC app shows.
 
 ## License
 
-OpenSteer is free to use. It is not open source: you may not redistribute, sell or modify the
-app. See [LICENSE](LICENSE).
+OpenSteer is free to use. See [LICENSE](LICENSE).
 
 ## Third-party software
 
